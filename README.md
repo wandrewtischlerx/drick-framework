@@ -25,7 +25,7 @@ cd drick-framework
 <br>
 pip install -r requirements.txt
 
-# Funções
+<h2>Funções</h2>
 
    - ping: Verifica a disponibilidade de hosts na rede.
    - capip: Identifica e captura endereços IP.

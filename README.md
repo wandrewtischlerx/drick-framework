@@ -14,10 +14,7 @@ Funções Principais
 - Extrator de Links (elink): Extrai links de páginas da web.
 - Escaner de Portas (pscan): Escaneia redes em busca de portas abertas e serviços disponíveis.
 
-Instalação
-
-Clone este repositório e instale as dependências necessárias.
-
+<h2>Instalação:</h2>
 
 git clone https://github.com/wandrewtischlerx/drick-framework
 <br>
@@ -25,12 +22,7 @@ cd drick-framework
 <br>
 pip install -r requirements.txt
 
-# Comando de instalação das dependências, se aplicável
-
-Como Usar:
-
-1. Execute o Drick Framework a partir do terminal ou linha de comando.
-2. Dentro do software, utilize os comandos abaixo para acessar as funcionalidades:
+# Funções
 
    - ping: Verifica a disponibilidade de hosts na rede.
    - capip: Identifica e captura endereços IP.
@@ -40,11 +32,11 @@ Como Usar:
    - elink: Extrai links de páginas da web.
    - pscan: Escaneia redes em busca de portas abertas e serviços disponíveis.
 
-Contribuições:
+<h2>Contribuições:</h2>
 
 Contribuições são bem-vindas! Para sugerir melhorias ou reportar problemas, por favor abra uma issue ou envie um pull request.
 
-Licença:
+<h2>Licença:</h2>
 
 Este projeto está licenciado sob a MIT License (https://opensource.org/licenses/MIT).
 

@@ -19,11 +19,11 @@ Funções Principais
 
 <h2>Instalação:</h2>
 
+```
 git clone https://github.com/wandrewtischlerx/drick-framework
-<br>
 cd drick-framework
-<br>
 pip install -r requirements.txt
+```
 
 <h2>Funções</h2>
 

@@ -27,13 +27,14 @@ pip install -r requirements.txt
 
 <h2>Funções</h2>
 
-   - ping: Verifica a disponibilidade de hosts na rede.
-   - capip: Identifica e captura endereços IP.
-   - tporta: Avalia a disponibilidade de portas em servidores.
-   - cbanner: Extrai informações de banners de serviços em execução.
-   - locip: Identifica a localização geográfica de endereços IP.
-   - elink: Extrai links de páginas da web.
-   - pscan: Escaneia redes em busca de portas abertas e serviços disponíveis.
+   - Ping: Verifica a disponibilidade de hosts na rede.
+   - Capip: Identifica e captura endereços IP.
+   - Tporta: Avalia a disponibilidade de portas em servidores.
+   - Cbanner: Extrai informações de banners de serviços em execução.
+   - Locip: Identifica a localização geográfica de endereços IP.
+   - Elink: Extrai links de páginas da web.
+   - Pscan: Escaneia redes em busca de portas abertas e serviços disponíveis.
+   - Siteping: Testa diversos sites em massa e retorna o status da conexão.
 
 <h2>Contribuições:</h2>
 

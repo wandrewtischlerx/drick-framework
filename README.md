@@ -5,17 +5,7 @@
 
 ---
 
-Bem-vindo ao Drick Framework, uma ferramenta robusta e versátil desenvolvida para profissionais de rede e desenvolvedores focados em eficiência e segurança.
-
-Funções Principais
-
-- Ping Host (ping): Verifica a disponibilidade de hosts na rede.
-- Capturar IP (capip): Identifica e captura endereços IP.
-- Testar Porta (tporta): Avalia a disponibilidade de portas em servidores.
-- Capturar Banner (cbanner): Extrai informações de banners de serviços em execução.
-- Localizar IP (locip): Identifica a localização geográfica de endereços IP.
-- Extrator de Links (elink): Extrai links de páginas da web.
-- Escaner de Portas (pscan): Escaneia redes em busca de portas abertas e serviços disponíveis.
+O Drick Framework representa uma solução abrangente e eficaz para profissionais de rede e segurança cibernética, oferecendo uma série de ferramentas integradas projetadas para otimizar operações complexas. Este framework é essencial tanto para administradores de rede quanto para especialistas em segurança, proporcionando uma plataforma robusta e intuitiva para diversas necessidades de gestão e proteção de redes.
 
 <h2>Instalação:</h2>
 

@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/9TJrmKr/1.png" alt="Print Drick Framework">
 
-<h1>Drick Framework</h1>
+<h1>Drick Framework v0.3</h1>
 
 ---
 
@@ -10,7 +10,7 @@ O Drick Framework representa uma solução abrangente e eficaz para profissionai
 <h2>Instalação:</h2>
 
 ```
-git clone https://github.com/wandrewtischlerx/drick-framework
+git clone https://github.com/wandrewtischlerx/drick-framework.git
 cd drick-framework
 pip install -r requirements.txt
 ```
@@ -25,6 +25,8 @@ pip install -r requirements.txt
    - Elink: Extrai links de páginas da web.
    - Pscan: Escaneia redes em busca de portas abertas e serviços disponíveis.
    - Siteping: Testa diversos sites em massa e retorna o status da conexão.
+   - Anunn4ki: Busca por determinadas portas ou serviços na rede mundial de computadores.
+   - Sendys: Ferramenta para analise de cabeçalhos.
 
 <h2>Contribuições:</h2>
 

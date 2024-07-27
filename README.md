@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/9TJrmKr/1.png" alt="Print Drick Framework">
 
-<h1>Drick Framework v0.3</h1>
+<h1>Drick Framework v0.4</h1>
 
 ---
 
@@ -27,6 +27,7 @@ pip install -r requirements.txt
    - Siteping: Testa diversos sites em massa e retorna o status da conexão.
    - Anunn4ki: Busca por determinadas portas ou serviços na rede mundial de computadores.
    - Sendys: Ferramenta para analise de cabeçalhos.
+   - DeviceInfo: Retorna as principais informações do dispositivo.
 
 <h2>Contribuições:</h2>
 

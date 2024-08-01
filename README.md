@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/9TJrmKr/1.png" alt="Print Drick Framework">
+<img src="https://i.postimg.cc/mgh3Ym1k/Drick-Framework-v0-4.png" alt="Print Drick Framework">
 
 <h1>Drick Framework v0.4</h1>
 
